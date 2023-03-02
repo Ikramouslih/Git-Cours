@@ -1,2 +1,11 @@
-Ligne 1ligne 2
+<<<<<<< HEAD
+Ligne 1
+ligne 2
 Ligne 4
+=======
+Ligne 1
+ligne 2
+Ligne 4
+
+>>>>>>> master
+ligne 3
